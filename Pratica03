@@ -1,0 +1,84 @@
+1) Parte lógica e não física de um dispositivo, onde instrui a parte de hardware sobre o que tem de ser feito. Armazena instruções, informações e dados
+
+2) Não físico, tangível e único já o hardware possui limites físicos. Já o hardware possui limitações físicas e um padrão 
+
+3) Completamente falso, pois uma vez que o software está concluído, há a necessidade de realizar manutenções, orientar usuários a respeito de funcionalidades do sistema e treinamentos.
+
+4) Foco em desenvolvimento através de prazos, custos e funcionalidades adequadas. 
+
+5) Métodos de engenharia: tem como objetivo facilitar a produção do software. Ferramentas: são uma forma de auxilio e facilidade no desenvolvimento de um software. Processo de software: lista de instruções que auxiliam no desenvolvimento
+
+6) Definição: Analise de sistema> Analisa a funcionalidade a serem implementadas Analise de requisitos> Coleta requisitos para o funcionamento ideal do sistema. Planejamento de sistema> Analise de custo, prazo, funcionalidades do sistema.
+Desenvolvimento: Projeto de software> Transformado requisitos do sistema em representações gráficas e casos de uso. Codificação> Escolha da linguagem de programação. Testes> Sistema passa por testes de lógica, funcionalidades em busca de defeitos. Manutenção: Sistema fica sucessível a manutenções, sejam elas: Adaptativas, Preventivas, Perfectivas ou Corretivas. 
+
+7) Cascata> Focado em desenvolvimento sequencial, uma vez em contato com o cliente realizo o desenvolvimento do sistema, pouco contato com o cliente apenas no inicio e na documentação. Prototipação> Focado em resolver as desvantagens do modelo cascata, cliente participa mais e foco nos requisitos iniciais. Incremental> Dado as funcionalidades do sistema através do cliente, um analista separa as funcionalidades por prioridade e a entrega é feita por incrementos. Espiral> Recomendado para projetos grandes pois exige uma equipe mais experiente e o custo é alto. Adaptação fácil a mudanças no requisitos. 
+
+8) Cascata> Prazo e custo baixo; Pouco contato com o cliente e dificuldade a adaptar a mudanças. Prototipação> Mais contato com o cliente durante as fases de desenvolvimento porém custo maior e prazo prolongado. Incremental> Adaptação a mudanças pois a entrega é feita por segmentos, porém preciso de uma boa arquitetura definida desde o inicio e posso me perder facilmente durante os segmentos. Espiral> Facilidade para mudanças de requisitos, equipe mais experiente e custo maior.
+
+9) Entrevista: Planejamento> Defino público-alvo, elaboro as perguntas e o objetivo da entrevista. Condução> Foco em adquirir os requisitos do sistema com base nas respostas obtidas. Documentação> Registro e organizo as informações coletadas durante a entrevista com foco no desenvolvimento de sistema. 
+
+10) Na técnica do questionário, o público-alvo é identificado antes, elaborado as perguntas com base no público-alvo e entrega do questionário. Documentação com foco no desenvolvimento do sistema com base nas respostas obtidas através do questionário.
+
+11) Observação um analista de sistema define qual o público-alvo, regras, dificuldades e funcionalidades estão presentes. Documentação com foco em desenvolvimento do sistema.
+
+12) Requisitos do usuário é voltado ao cliente e usuário, evitando termos complexos e técnicos. Já no Requisito do sistema, os termos são voltados ao equipe de desenvolvimento, sendo mais técnicos e complexos para desenvolver o sistema.
+
+13) Requisito funcional é uma funcionalidade do sistema, por exemplo: Um cliente deve ser identificado pelo CPF. Já um requisito não funcional é uma restrição ou um limite como por exemplo: O sistema deve identificar esse cliente em até 3 segundos.
+
+14) Letra C 
+
+14b) Letra B
+
+14c) Letra E
+
+14d) Letra B
+
+14e) Letra A
+
+15a) Letra C
+
+15b) Letra D
+
+15c) Letra C
+
+15d) Letra D
+
+15e) Letra E
+
+16a) Letra A
+
+16b) Letra D
+
+16c) Letra E
+
+16d) Letra E
+
+16e) Letra B
+
+
+Mapa Mental:
+
+
+SCRUM
+    PAPÉIS
+        Product Owner
+        Scrum Master
+        Dev Team
+    EVENTOS
+        Sprint
+        Planning
+        Daily Scrum
+        Review
+        Retrospectiva
+    ARTEFATOS
+        Product Backlog
+        Sprint Backlog
+        Incremento
+    VALORES
+        Compromisso
+        Coragem
+        Foco
+        Abertura
+        Respeito
+
+
